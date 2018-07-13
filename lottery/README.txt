@@ -27,8 +27,8 @@ under the deploy button.
 . Now you can enter a value (must be more than 0.01 ether) and press "enter".
 . You can also add more players and if you are the manager you can select winners.
 
-VIDEO:
-
+VIDEO TUTORIAL:
+https://youtu.be/6k9khMYBIH4
 
 Special thanks to: Stephen Grider
 https://github.com/StephenGrider
