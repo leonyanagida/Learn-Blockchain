@@ -15,6 +15,8 @@ Instructions:
 . Open node command prompt and navigate to the lottery folder
 . Type "node deploy.js" into the command prompt (without the quotation marks)
 . NOTE: Please do not close the node js command prompt yet.
+NOTE: If you get an error when deploying the contract, it is most likely because of web3. In order to fix,
+run "npm install web3" or "yarn add web3" in the node js command prompt.
 
 . Go to http://remix.ethereum.org/
 . Copy and paste the code in the Lottery.sol file located in the contracts folder onto the page
